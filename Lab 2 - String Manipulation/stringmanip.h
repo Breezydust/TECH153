@@ -10,7 +10,7 @@
 
 //Function Definitions
 
-void TestStrings(const char* thomas);
+void TestStrings(const char* teststring);
 int getStrings(char str[MAXCHARS]);
 void printStrings(char str[MAXCHARS]);
 void encrpyt(char str[MAXCHARS],int key);
